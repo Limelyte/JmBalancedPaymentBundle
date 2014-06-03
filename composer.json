@@ -18,7 +18,7 @@
     },
     "require-dev": {
         "doctrine/orm": ">=2.2.3,<2.5-dev"
-    }
+    },
     "target-dir": "Jm/BalancedPaymentBundle",
     "autoload": {
         "psr-0": { "Jm\\BalancedPaymentBundle": "" }
